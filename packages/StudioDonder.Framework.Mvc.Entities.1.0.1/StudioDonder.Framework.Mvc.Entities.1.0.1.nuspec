@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>StudioDonder.Framework.Mvc.Entities</id>
+    <version>1.0.1</version>
+    <title>StudioDonder.Framework.MVC.Entities</title>
+    <authors>Erik Schierboom</authors>
+    <owners>Erik Schierboom</owners>
+    <licenseUrl>http://mit-license.org/</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Classes to help working with entities in an ASP.NET MVC4 applications.</description>
+    <releaseNotes>Upgraded to .NET 4.5 and ASP.NET MVC 4</releaseNotes>
+    <copyright>Copyright 2012</copyright>
+    <tags>SD Framework MVC4 Entities</tags>
+    <dependencies>
+      <dependency id="Microsoft.AspNet.Mvc" version="4.0.20710.0" />
+      <dependency id="NHibernate" version="3.3.2.4000" />
+    </dependencies>
+  </metadata>
+</package>

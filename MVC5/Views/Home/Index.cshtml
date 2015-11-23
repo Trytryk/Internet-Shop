@@ -1,0 +1,89 @@
+﻿@model IEnumerable<DataBase.Models.Product>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+
+    <div class="carousel-inner" role="listbox">
+        <div class="item active">
+            <a href='@Url.Action("GetProduct", new { id = Model.First().ProductId })'>
+                <img src='@Url.Action("byteArrayToImageResized","Product", new { id = Model.First().ProductId ,w="700",h="300"})' />
+
+                <div class="carousel-caption">
+                    <h3>Name: @Model.First().ProductName</h3>
+                    <p>Category: @Model.First().Category</p>
+                    <p>Price: @Model.First().Price $</p>
+                </div>
+
+            </a>
+
+        </div>
+
+        @{foreach (var item in Model)
+        {
+            if (Model.First().ProductId != item.ProductId)
+            {
+                <div class="item">
+                    <a href='@Url.Action("GetProduct", new { id = item.ProductId })'>
+
+                        <img src='@Url.Action("byteArrayToImageResized","Product",new { id = item.ProductId,w="700",h="300" })' />
+
+                        <div class="carousel-caption">
+                            <h3>Name: @item.ProductName</h3>
+                            <p>Category: @item.Category</p>
+                            <p>Price: @item.Price $</p>
+                        </div>
+                    </a>
+                </div>
+            }
+        }
+        }
+    </div>
+
+
+    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+
+<div class="Top"><p>Hits sales</p></div>
+
+<div class="mr100px">
+    <div class="row">
+        @{foreach (var item in Model)
+        {
+            if (item.InHit == true)
+            {
+                <a href='@Url.Action("GetProduct", new {id = item.ProductId })'>
+                    <div class="col-sm-6 col-md-4">
+                        <div class="thumbnail">
+                            @{if (item.InTop == true)
+                            {
+                                <div class="hit"><p>Top<p></div>
+                            }
+                            else
+                            { <div class="hitTransparrent"><p>d<p></div>}
+                            }
+                            <img src='@Url.Action("byteArrayToImageResized", "Product", new { id = item.ProductId, w = "300", h = "100" })' />
+                            <div class="caption">
+                                <h3>@item.ProductName</h3>
+                                <p>@item.Price $</p>
+
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            }
+        }
+        }
+
+    </div>
+</div>
+

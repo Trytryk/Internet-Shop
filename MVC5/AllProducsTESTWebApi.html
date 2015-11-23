@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <h2>AllProductInJson:</h2>
+    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            var url = 'http://localhost:23489/api/Values/Get';
+            $.ajax({
+                url: url,
+                success: function (data) {
+
+                    for (i = 0; i < data.length; i++) {
+                        document.write("Name: " + data[i].ProductName + "<br>" +
+                            "Description: " + data[i].Description + "<br>" +
+                            "Pictures: " + "<img src='jjj.png'>" + "<br>" +
+                            "Price: " + data[i].Price + "<br>" +
+                            "Category: " + data[i].Description + "<br>");
+                    }
+                },
+                type: 'GET',
+                dataType: 'json'
+            });
+        });
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,13 @@
+D:\Basquare\Internet-shop\DataBase\bin\Debug\DataBase.dll.config
+D:\Basquare\Internet-shop\DataBase\bin\Debug\DataBase.dll
+D:\Basquare\Internet-shop\DataBase\bin\Debug\DataBase.pdb
+D:\Basquare\Internet-shop\DataBase\bin\Debug\EntityFramework.dll
+D:\Basquare\Internet-shop\DataBase\bin\Debug\EntityFramework.SqlServer.dll
+D:\Basquare\Internet-shop\DataBase\bin\Debug\EntityFramework.xml
+D:\Basquare\Internet-shop\DataBase\bin\Debug\EntityFramework.SqlServer.xml
+D:\Basquare\Internet-shop\DataBase\obj\Debug\DataBase.dll
+D:\Basquare\Internet-shop\DataBase\obj\Debug\DataBase.pdb
+D:\Basquare\Internet-shop\DataBase\bin\Debug\Newtonsoft.Json.dll
+D:\Basquare\Internet-shop\DataBase\bin\Debug\Newtonsoft.Json.xml
+D:\Basquare\Internet-shop\DataBase\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\Basquare\Internet-shop\DataBase\bin\Debug\Microsoft.WindowsAzure.Configuration.xml

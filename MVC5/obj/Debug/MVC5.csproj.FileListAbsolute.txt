@@ -1,0 +1,130 @@
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\MVC5.dll.config
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\MVC5.dll
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\MVC5.pdb
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Antlr3.Runtime.dll
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\EntityFramework.dll
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\EntityFramework.SqlServer.dll
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Microsoft.Owin.dll
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Microsoft.Owin.Security.dll
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Microsoft.Owin.Security.Google.dll
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Microsoft.Web.Infrastructure.dll
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Newtonsoft.Json.dll
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Owin.dll
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\System.Web.Helpers.dll
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\System.Web.Mvc.dll
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\System.Web.Optimization.dll
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\System.Web.Razor.dll
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\System.Web.WebPages.Deployment.dll
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\System.Web.WebPages.dll
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\System.Web.WebPages.Razor.dll
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\WebGrease.dll
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\System.Web.Helpers.xml
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\System.Web.Mvc.xml
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\System.Web.Optimization.xml
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\System.Web.Razor.xml
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\System.Web.WebPages.xml
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\System.Web.WebPages.Deployment.xml
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\System.Web.WebPages.Razor.xml
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Newtonsoft.Json.xml
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Antlr3.Runtime.pdb
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\EntityFramework.xml
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\EntityFramework.SqlServer.xml
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Microsoft.Owin.xml
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Microsoft.Owin.Security.xml
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Microsoft.Owin.Security.Google.xml
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\obj\Debug\MVC5.csprojResolveAssemblyReference.cache
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\obj\Debug\MVC5.dll
+c:\users\joao\documents\visual studio 2013\Projects\MVC5\MVC5\obj\Debug\MVC5.pdb
+D:\Basquare\Internet-shop\MVC5\bin\MVC5.dll.config
+D:\Basquare\Internet-shop\MVC5\bin\MVC5.dll
+D:\Basquare\Internet-shop\MVC5\bin\MVC5.pdb
+D:\Basquare\Internet-shop\MVC5\bin\Antlr3.Runtime.dll
+D:\Basquare\Internet-shop\MVC5\bin\EntityFramework.dll
+D:\Basquare\Internet-shop\MVC5\bin\EntityFramework.SqlServer.dll
+D:\Basquare\Internet-shop\MVC5\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Basquare\Internet-shop\MVC5\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Basquare\Internet-shop\MVC5\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Basquare\Internet-shop\MVC5\bin\Microsoft.Owin.dll
+D:\Basquare\Internet-shop\MVC5\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Basquare\Internet-shop\MVC5\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Basquare\Internet-shop\MVC5\bin\Microsoft.Owin.Security.dll
+D:\Basquare\Internet-shop\MVC5\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Basquare\Internet-shop\MVC5\bin\Microsoft.Owin.Security.Google.dll
+D:\Basquare\Internet-shop\MVC5\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Basquare\Internet-shop\MVC5\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Basquare\Internet-shop\MVC5\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Basquare\Internet-shop\MVC5\bin\Microsoft.Web.Infrastructure.dll
+D:\Basquare\Internet-shop\MVC5\bin\Newtonsoft.Json.dll
+D:\Basquare\Internet-shop\MVC5\bin\Owin.dll
+D:\Basquare\Internet-shop\MVC5\bin\System.Web.Helpers.dll
+D:\Basquare\Internet-shop\MVC5\bin\System.Web.Mvc.dll
+D:\Basquare\Internet-shop\MVC5\bin\System.Web.Optimization.dll
+D:\Basquare\Internet-shop\MVC5\bin\System.Web.Razor.dll
+D:\Basquare\Internet-shop\MVC5\bin\System.Web.WebPages.Deployment.dll
+D:\Basquare\Internet-shop\MVC5\bin\System.Web.WebPages.dll
+D:\Basquare\Internet-shop\MVC5\bin\System.Web.WebPages.Razor.dll
+D:\Basquare\Internet-shop\MVC5\bin\WebGrease.dll
+D:\Basquare\Internet-shop\MVC5\bin\System.Web.Helpers.xml
+D:\Basquare\Internet-shop\MVC5\bin\System.Web.Mvc.xml
+D:\Basquare\Internet-shop\MVC5\bin\System.Web.Optimization.xml
+D:\Basquare\Internet-shop\MVC5\bin\System.Web.Razor.xml
+D:\Basquare\Internet-shop\MVC5\bin\System.Web.WebPages.xml
+D:\Basquare\Internet-shop\MVC5\bin\System.Web.WebPages.Deployment.xml
+D:\Basquare\Internet-shop\MVC5\bin\System.Web.WebPages.Razor.xml
+D:\Basquare\Internet-shop\MVC5\bin\Newtonsoft.Json.xml
+D:\Basquare\Internet-shop\MVC5\bin\Antlr3.Runtime.pdb
+D:\Basquare\Internet-shop\MVC5\bin\EntityFramework.xml
+D:\Basquare\Internet-shop\MVC5\bin\EntityFramework.SqlServer.xml
+D:\Basquare\Internet-shop\MVC5\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Basquare\Internet-shop\MVC5\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Basquare\Internet-shop\MVC5\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Basquare\Internet-shop\MVC5\bin\Microsoft.Owin.xml
+D:\Basquare\Internet-shop\MVC5\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Basquare\Internet-shop\MVC5\bin\Microsoft.Owin.Security.xml
+D:\Basquare\Internet-shop\MVC5\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Basquare\Internet-shop\MVC5\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Basquare\Internet-shop\MVC5\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Basquare\Internet-shop\MVC5\bin\Microsoft.Owin.Security.Google.xml
+D:\Basquare\Internet-shop\MVC5\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Basquare\Internet-shop\MVC5\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Basquare\Internet-shop\MVC5\obj\Debug\MVC5.csprojResolveAssemblyReference.cache
+D:\Basquare\Internet-shop\MVC5\obj\Debug\MVC5.dll
+D:\Basquare\Internet-shop\MVC5\obj\Debug\MVC5.pdb
+D:\Basquare\Internet-shop\MVC5\bin\DataBase.dll
+D:\Basquare\Internet-shop\MVC5\bin\DataBase.pdb
+D:\Basquare\Internet-shop\MVC5\bin\ImageResizer.dll
+D:\Basquare\Internet-shop\MVC5\bin\Ninject.dll
+D:\Basquare\Internet-shop\MVC5\bin\Ninject.Web.Common.dll
+D:\Basquare\Internet-shop\MVC5\bin\Ninject.Web.Mvc.dll
+D:\Basquare\Internet-shop\MVC5\bin\WebActivatorEx.dll
+D:\Basquare\Internet-shop\MVC5\bin\ImageResizer.xml
+D:\Basquare\Internet-shop\MVC5\bin\Ninject.xml
+D:\Basquare\Internet-shop\MVC5\bin\Ninject.Web.Common.xml
+D:\Basquare\Internet-shop\MVC5\bin\Ninject.Web.Mvc.xml
+d:\Basquare\Internet-shop\MVC5\bin\System.Net.Http.Formatting.dll
+d:\Basquare\Internet-shop\MVC5\bin\System.Web.Http.dll
+d:\Basquare\Internet-shop\MVC5\bin\System.Web.Http.WebHost.dll
+d:\Basquare\Internet-shop\MVC5\bin\System.Net.Http.Formatting.xml
+d:\Basquare\Internet-shop\MVC5\bin\System.Web.Http.xml
+d:\Basquare\Internet-shop\MVC5\bin\System.Web.Http.WebHost.xml
+D:\Basquare\Internet-shop\MVC5\bin\System.Web.Cors.dll
+D:\Basquare\Internet-shop\MVC5\bin\Ninject.Web.WebApi.dll
+D:\Basquare\Internet-shop\MVC5\bin\Ninject.Web.WebApi.xml

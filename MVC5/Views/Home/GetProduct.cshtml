@@ -1,0 +1,26 @@
+﻿@model DataBase.Models.Product
+@{
+    ViewBag.Title = "GetProduct";
+}
+
+<h2>@Model.ProductName</h2>
+
+<div class="paragraphs">
+    <div class="row">
+        <div class="span4">
+            <img style="float:left " class="img-rounded" src='@Url.Action("byteArrayToImageResized","Product", new { id = Model.ProductId, w = "550", h = "250" })' />
+            <div class="content-heading">
+                <h3>@Model.ProductName</h3>
+            </div>
+            <p>Category: @Model.Category </p>
+            <p>Description: @Model.Description </p>
+            <h4>Price: @Model.Price </h4>
+            <div class="row">
+                <button type="button" class="btn btn-primary">Buy Now</button>
+                <button type="button" class="btn btn-primary">Add to Cart</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
