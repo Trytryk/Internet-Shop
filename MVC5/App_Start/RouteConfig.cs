@@ -19,7 +19,10 @@ namespace MVC5
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
             );
 
-
+            routes.MapRoute(
+     "WithActionApi",
+     "api/{controller}/{action}/{id}"
+                  );
         }
     }
 }

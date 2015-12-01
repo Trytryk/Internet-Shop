@@ -10,7 +10,7 @@
         <div class="item active">
             <a href='@Url.Action("GetProduct", new { id = Model.First().ProductId })'>
                 <img src='@Url.Action("byteArrayToImageResized","Product", new { id = Model.First().ProductId ,w="700",h="300"})' />
-
+                  
                 <div class="carousel-caption">
                     <h3>Name: @Model.First().ProductName</h3>
                     <p>Category: @Model.First().Category</p>

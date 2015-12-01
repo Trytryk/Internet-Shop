@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "GetAllFromWebAPI";
+}
+
+<h2>Guitars:</h2>
+<div id="guitars"></div>
+
+<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+<script>
+    $(document).ready(function () {
+        var url = 'http://localhost:52673/api/ProductWebAPI/Get';
+        $.ajax({
+            url: url,
+            success: function (data) {
+
+                for (i = 0; i < data.length; i++) {
+                    var guitar=("Name: " + data[i].ProductName + "<br>" +
+                        "Description: " + data[i].Description + "<br>" +
+                        "Pictures: " + "<img src='jjj.png'>" + "<br>" +
+                        "Price: " + data[i].Price + "<br>" +
+                        "Category: " + data[i].Description + "<br>");
+                    $('#guitars').append(guitar);
+                }
+            },
+            type: 'GET',
+            dataType: 'json'
+        });
+    });
+</script>

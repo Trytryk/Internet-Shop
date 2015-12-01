@@ -1,4 +1,4 @@
-namespace MvcApplication1.Areas.HelpPage.ModelDescriptions
+namespace MVC5.Areas.HelpPage.ModelDescriptions
 {
     public class EnumValueDescription
     {

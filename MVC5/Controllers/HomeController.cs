@@ -16,7 +16,10 @@ namespace MVC5.Controllers
         {
             db = irepository;
         }
-
+        public ActionResult GetAllFromWebAPI()
+        {
+            return View();
+        }
         public ActionResult Index()
         {
             return View(db.GetAll().ToList());
@@ -26,10 +29,6 @@ namespace MVC5.Controllers
         {
             Product product = db.GetElementById(id);
             return View(product);
-        }
-        public ActionResult AllProductInJson()
-        {
-            return View();
         }
 	}
 }

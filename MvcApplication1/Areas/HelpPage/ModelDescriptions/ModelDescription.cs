@@ -1,6 +1,6 @@
 using System;
 
-namespace MvcApplication1.Areas.HelpPage.ModelDescriptions
+namespace MVC5.Areas.HelpPage.ModelDescriptions
 {
     /// <summary>
     /// Describes a type model.

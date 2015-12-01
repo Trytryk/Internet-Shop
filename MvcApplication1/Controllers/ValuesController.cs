@@ -8,19 +8,20 @@ using System.Net.Http;
 using System.Web.Http;
 using System.Web.Http.Cors;
 
-namespace MvcApplication1.Controllers
+namespace MVC5.Controllers
 {
      [EnableCors(origins: "http://localhost:52673", headers: "*", methods: "*")]
     public class ValuesController : ApiController
     {
 
-        private IProductRepository<Product> db;
+        //private IProductRepository<Product> db;
 
-        public ValuesController(IProductRepository<Product> irepository)
-        {
-            db = irepository;
-        }
-        
+        //public ValuesController(IProductRepository<Product> irepository)
+        //{
+        //    db = irepository;
+        //}
+
+         private ProductRepository db = new ProductRepository(new ProductContext() );
         // GET api/values
         public IEnumerable<Product> Get()
         {

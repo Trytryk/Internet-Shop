@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web.Http;
 using System.Web.Http.Cors;
 
-namespace MvcApplication1
+namespace MVC5
 {
     public static class WebApiConfig
     {
