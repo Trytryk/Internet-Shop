@@ -4,6 +4,7 @@
     ViewBag.Title = "Home Page";
 }
 
+
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
 
     <div class="carousel-inner" role="listbox">
@@ -63,7 +64,7 @@
             {
                 <a href='@Url.Action("GetProduct", new {id = item.ProductId })'>
                     <div class="col-sm-6 col-md-4">
-                        <div class="thumbnail">
+                        <div class="thumbnail" onmouseover="ShowPrice(@(item.ProductId))" onmouseout="HidePrice(@(item.ProductId))">
                             @{if (item.InTop == true)
                             {
                                 <div class="hit"><p>Top<p></div>
@@ -74,9 +75,9 @@
                             <img src='@Url.Action("byteArrayToImageResized", "Product", new { id = item.ProductId, w = "300", h = "100" })' />
                             <div class="caption">
                                 <h3>@item.ProductName</h3>
-                                <p>@item.Price $</p>
-
                             </div>
+                            <div id="@(item.ProductId)"
+                                 style="background-color: #C0C0C0; visibility: hidden; border-radius: 2px; color: white; text-align: center; font-size: 20px; ">Price: @item.Price$</div>
                         </div>
                     </div>
                 </a>
@@ -87,3 +88,12 @@
     </div>
 </div>
 
+<script type="text/javascript">
+    function ShowPrice(s)
+    {
+        document.getElementById(s).style.visibility = "visible";
+    }
+    function HidePrice(s) {
+        document.getElementById(s).style.visibility = "hidden";
+    }
+</script>
